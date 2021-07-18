@@ -1,0 +1,32 @@
+
+input:hover {
+    box-shadow: 0 0.5em 0.5em -0.4em;
+    transform: translateY(0.9);
+    transform: translateY(-0.24em);
+    color: white;
+    
+ 
+ }
+ button,input,form{
+     border-radius: 8%;
+     transition: all  0.3s;
+ }
+ button,input{
+     border-radius: 10px;
+ }
+ 
+ button:hover {
+     box-shadow: 0 0.5em 0.5em -0.4em;
+     transform: translateY(-0.24em);
+     color: white;
+     cursor: pointer;
+ }
+ form:hover {
+     box-shadow: 0 0.8em 0.8em -0.4em #258fc4;
+     transform: translateY(-0.24em);
+ 
+ 
+  }
+  a:hover{
+      color: yellow;
+  }
